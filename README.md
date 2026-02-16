@@ -1,0 +1,3 @@
+# kelly-said
+Personal Intro and Portfolio
+Hello. My name is Kelly Said (sounds like Paid) and I'm an aspiring Cybersecurity Professional validating my skills through my hands on experience with projects such as college course labwork, capture-the-flag challenges, and hands-on certification assessments showcasing my abilty to solve, detect, and respond to real-world threats. I'm moving beyond the theoretical knowledge I've acquired to prove technical competency in areas like network security, forensics, and security program management and oversight. My ultimate goal is to combine the security skills I've acquired in my university program with my past Oil and Gas experience in Land Administration and SOX compliance towards a fulfilling career in cybersecurity.
